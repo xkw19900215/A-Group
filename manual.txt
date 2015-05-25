@@ -9,5 +9,3 @@ do commit
 5 git push origin my branch name
 when master Agroup repositry do update,it is reflected maybe.
 and then fale do work cui and gui.
-どうですか
-kieeeee
