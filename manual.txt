@@ -1,0 +1,12 @@
+put the manual to add the file
+1 git clone https://github.com/xkw19900215/A-Group.git
+make repositriy of A-group
+2 git check out -b my branch name
+you do the work in tyeir place
+3 this is not git command. create a file.
+4 git commit -am 'tekitounamonokake'
+do commit
+5 git push origin my branch name
+when master Agroup repositry do update,it is reflected maybe.
+and then fale do work cui and gui.
+どうですか
