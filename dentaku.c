@@ -22,7 +22,7 @@ int main(void){
 
 		printf("%g %c %g = %g\n",a,c,b,ans);						//出力
 		printf("終了なら:0 電卓を続けるなら:1\n");scanf("%d",&i);			//もう一度やるかやらないか
-	}
+	}//bibibib
 
 	return 0;
 }
