@@ -2,12 +2,12 @@
 #include<stdlib.h>
 
 int calc(void);
-int char(void);
+int cha(void);
 
 int main(void){
   int select;
   
-  printf("****************************************************");
+  printf("タイトル入れる予定でした************************************\n");
   while(1){
   printf("機能を選んでください：１．電卓     ２．プログラミング言語相性診断    ０．終了\n");
   printf(": ");
@@ -19,7 +19,7 @@ int main(void){
   calc ();
   }
   else if(select==2){
-  char();
+  cha();
   }
   else{
   printf("入力エラー ０、１、２の中から選んでください\n\n");
@@ -57,7 +57,7 @@ int calc(void){
 	return 0;
 }
 
-int char(void){
+int cha(void){
 	int current_q_pos;
 	int ans;
 
